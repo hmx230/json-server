@@ -25,5 +25,32 @@
       "image": "/images/device_img.jpg",
       "url": "URL is HERE!!"
     }
+  ],
+  "works": [
+    {
+      "id": 1,
+      "image": "/images/device_img.jpg",
+      "url": "URL is HERE!!"
+    },
+    {
+      "id": 2,
+      "image": "/images/device_img.jpg",
+      "url": "URL is HERE!!"
+    },
+    {
+      "id": 3,
+      "image": "/images/device_img.jpg",
+      "url": "URL is HERE!!"
+    },
+    {
+      "id": 4,
+      "image": "/images/device_img.jpg",
+      "url": "URL is HERE!!"
+    },
+    {
+      "id": 5,
+      "image": "/images/device_img.jpg",
+      "url": "URL is HERE!!"
+    }
   ]
 }
