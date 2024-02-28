@@ -1,5 +1,4 @@
-{
-  "workslist": [
+[
     {
       "id": 1,
       "image": "/images/device_img.jpg",
@@ -52,5 +51,4 @@
       "image": "/images/device_img.jpg",
       "url": "URL is HERE!!"
     }
-  ]
-}
+]
